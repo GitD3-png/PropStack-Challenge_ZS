@@ -1,6 +1,8 @@
 # 🏗️ PropStack Challenge: Build the Future of PropTech Mapping
 
-Welcome to the **PropStack Challenge** — a real-world coding competition to help us discover talented developers and showcase their skills in the world of real estate technology (PropTech).
+Are you ready to build something real that could shape the PropTech industry?
+We’re launching the **PropStack Project**, a **PropTech coding challenge** where developers compete to create a live, interactive tech stack manager — inspired by [StackShare.io](https://stackshare.io/stacks) — but designed for the **real estate vertical**.
+This competition focuses on **Multifamily** (“Apartments” or “Flats”) as the first asset class, with scope to expand across the PropTech ecosystem.
 
 ---
 
@@ -8,11 +10,13 @@ Welcome to the **PropStack Challenge** — a real-world coding competition to he
 
 Build a full-stack web application that visually maps out the technology companies used in the **Multifamily** real estate industry. Think of it like [StackShare.io](https://stackshare.io/stacks), but specifically designed for real estate asset classes.
 
-Your app should let users explore:
-- 📂 **Multifamily → Area** (Pre-Occupancy, Occupancy, Post-Occupancy)  
-- 🧩 **Area → Segment** (e.g., Discovery, Move-In, Lease Management)  
-- 🗂️ **Segment → Sub-category** (e.g., CRMs, Tenant Tech Packages, Access Control)  
-- 🏢 **Sub-category → Tech stack** (company name, logo, and URL)
+- A dynamic dropdown system:
+  - Multifamily → Node (e.g., Occupancy) → Sub-Category (e.g., Move In) → Tag (e.g., Tenant Tech Package)
+- Display company cards (logo + name + link) for each selected sub-category
+- Collapse all unrelated paths when one tag is selected
+- Back-end support for editing and expanding the tech list (can be no-code or custom CMS)
+- Clean, intuitive UX inspired by StackShare.io
+- Color palette to be taken from [PTAG](https://www.proptechangelgroup.com/) 
 
 ---
 
@@ -20,7 +24,7 @@ Your app should let users explore:
 
 **💰 First Place:** $500 USD + featured on our developer platform
 
-Top entries may also be invited to join our paid PropTech Developer Program.
+**Top participants** may be invited to join our developer pool for client-facing work
 
 ---
 
@@ -61,9 +65,9 @@ To participate, please submit:
 
 ## 📅 Timeline
 
-- **Launch Date:** [Insert Today’s Date]
-- **Submission Deadline:** **Friday, [Insert Date]**
-- **Winner Announced:** [Insert Date Next Week]
+- **Launch Date:** 25th March 2025
+- **Submission Deadline:** **Friday, 28th March 2025
+- **Winner Announced:** TBD
 
 ---
 
