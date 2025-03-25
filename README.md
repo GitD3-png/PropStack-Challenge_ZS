@@ -2,6 +2,7 @@
 
 Are you ready to build something real that could shape the PropTech industry?
 We’re launching the **PropStack Project**, a **PropTech coding challenge** where developers compete to create a live, interactive tech stack manager — inspired by [StackShare.io](https://stackshare.io/stacks) — but designed for the **real estate vertical**.
+
 This competition focuses on **Multifamily** (“Apartments” or “Flats”) as the first asset class, with scope to expand across the PropTech ecosystem.
 
 ---
