@@ -90,3 +90,11 @@ Reach out to us at [Demetri@blkhwk.com] or DM via LinkedIn.
 
 Happy building,  
 **– The PTAG Team**
+
+---
+
+## 📄 License
+
+The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to use and adapt the data and challenge materials for personal or educational purposes. Commercial use is not permitted.
