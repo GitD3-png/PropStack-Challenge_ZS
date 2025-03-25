@@ -1,4 +1,4 @@
-# 🏗️ PropStack Challenge: Build a Real Estate Tech Explorer
+# 🏗️ PropStack Challenge: Build the Future of PropTech Mapping
 
 Welcome to the **PropStack Challenge** — a real-world coding competition to help us discover talented developers and showcase their skills in the world of real estate technology (PropTech).
 
