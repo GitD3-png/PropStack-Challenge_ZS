@@ -39,9 +39,9 @@ Top entries may also be invited to join our paid PropTech Developer Program.
 
 ## 📦 Data Provided
 
-Download the structured dataset here:
+➡️ [Download Navigation Structure (JSON)](./assets/PropStack_Multifamily_Structure_Simplified.json)
 
-➡️ [PropStack_Multifamily_Structure_Simplified.json](./assets/PropStack_Multifamily_Structure_Simplified.json)
+🔗 Company URLs & Logo Links will be provided to developers upon request, or added as a second data file soon.
 
 ---
 
