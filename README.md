@@ -41,7 +41,7 @@ Top entries may also be invited to join our paid PropTech Developer Program.
 
 ➡️ [Download Navigation Structure (JSON)](./assets/PropStack_Multifamily_Structure_Simplified.json)
 
-🔗 Company URLs & Logo Links will be provided to developers upon request, or added as a second data file soon.
+🔗 A secondary company metadata sheet (URLs + logo links) is being finalized and will be added shortly.
 
 ---
 
