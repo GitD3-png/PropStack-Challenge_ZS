@@ -1,4 +1,5 @@
 # 🏗️ PropStack Challenge: Build the Future of PropTech Mapping
+[![Join the Discussion](https://img.shields.io/badge/discuss-join%20the%20challenge-blue)](https://github.com/GitD3-png/propstack-challenge/discussions)
 
 Are you ready to build something real that could shape the PropTech industry?
 We’re launching the **PropStack Project**, a **PropTech coding challenge** where developers compete to create a live, interactive tech stack manager — inspired by [StackShare.io](https://stackshare.io/stacks) — but designed for the **real estate vertical**.
