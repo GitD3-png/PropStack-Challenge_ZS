@@ -55,7 +55,7 @@ To participate, please submit:
    - How to run it locally
    - Any special tools or frameworks used
 
-📩 Submit your project here: [Google Form link coming soon]
+📩 Submit your project here: [Submit via Google Form](https://forms.gle/xAvVoaoLCfxABx5w9)
 
 ---
 
