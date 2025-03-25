@@ -12,7 +12,7 @@ This competition focuses on **Multifamily** (“Apartments” or “Flats”) as
 Build a full-stack web application that visually maps out the technology companies used in the **Multifamily** real estate industry. Think of it like [StackShare.io](https://stackshare.io/stacks), but specifically designed for real estate asset classes.
 
 - A dynamic dropdown system:
-  - Multifamily → Node (e.g., Occupancy) → Sub-Category (e.g., Move In) → Tag (e.g., Tenant Tech Package)
+  - **Multifamily → Node (e.g., Occupancy) → Sub-Category (e.g., Move In) → Tag (e.g., Tenant Tech Package)**
 - Display company cards (logo + name + link) for each selected sub-category
 - Collapse all unrelated paths when one tag is selected
 - Back-end support for editing and expanding the tech list (can be no-code or custom CMS)
