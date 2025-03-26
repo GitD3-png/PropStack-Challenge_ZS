@@ -68,7 +68,7 @@ To participate, please submit:
 ## 📅 Timeline
 
 - **Launch Date:** 25th March 2025
-- **Submission Deadline:** **Friday, 28th March 2025
+- **Submission Deadline:** **Monday, 31st March 2025
 - **Winner Announced:** TBD
 
 ---
