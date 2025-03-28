@@ -1,0 +1,2740 @@
+{
+  "Multifamily": {
+    "PRE-OCCUPANCY": {
+      "Pre-Discovery/Branding": {
+        "Branding Tech": [
+          {
+            "see": "CRMs"
+          }
+        ],
+        "MarTech": [
+          {
+            "name": "4 Walls",
+            "url": "https://4walls.net/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Alteryx",
+            "url": "https://www.alteryx.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ApartmentSEO",
+            "url": "https://apartmentseo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Apsiyon",
+            "url": "https://www.apsiyon.com/en",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Beekin",
+            "url": "https://beekin.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BetterNOI",
+            "url": "https://www.betternoi.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Building Link",
+            "url": "https://www.buildinglink.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Buildium",
+            "url": "https://www.buildium.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "CoStar",
+            "url": "https://www.costar.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Dyverse",
+            "url": "https://dyverse.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Factual",
+            "url": "https://www.factualmarketresearch.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Fiona",
+            "url": "https://www.myfiona.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "G5",
+            "url": "https://www.getg5.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "High Level Marketing",
+            "url": "https://highlevelmarketing.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ICUC ",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Inside RE",
+            "url": "https://insiderealestate.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Irio",
+            "url": "https://irio.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Jonah",
+            "url": "https://jonahdigital.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Market Apts",
+            "url": "https://www.marketapts.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MRI Software",
+            "url": "https://www.mrisoftware.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Multifamily Executive",
+            "url": "https://www.multifamilyexecutive.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PERQ",
+            "url": "https://perq.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Razz Interactive",
+            "url": "https://www.myrazz.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Real Estate Bees",
+            "url": "https://realestatebees.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Realync",
+            "url": "https://www.realync.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Remarkably",
+            "url": "https://remarkably.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Remine",
+            "url": "https://www.remine.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rentgrata",
+            "url": "https://www.rentgrata.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentVision",
+            "url": "https://www.rentvision.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Reonomy",
+            "url": "https://www.reonomy.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Resident 360",
+            "url": "https://www.resident360.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rooof",
+            "url": "https://www.rooof.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SmartZip",
+            "url": "https://smartzip.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TenantCloud",
+            "url": "https://www.tenantcloud.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "WalkScore",
+            "url": "https://www.walkscore.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "WiredScore",
+            "url": "https://wiredscore.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Apt Inventory": [
+          {
+            "see": "CRMs"
+          }
+        ],
+        "Pricing Tech": [
+          {
+            "name": "AirDNA",
+            "url": "https://www.airdna.co",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Avail",
+            "url": "https://www.avail.co",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Beyond Pricing",
+            "url": "https://www.beyondpricing.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Cendyn",
+            "url": "https://www.cendyn.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Console",
+            "url": "https://www.console.com.au/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Cozi",
+            "url": "https://www.cozy.co",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Duetto",
+            "url": "https://www.duettocloud.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Ideas",
+            "url": "https://ideas.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "KeyData",
+            "url": "https://www.keydatadashboard.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "LodgeIQ",
+            "url": "https://lodgeiq.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ManageGo",
+            "url": "https://www.managego.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MarketMinder",
+            "url": "https://www.airdna.co",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MyVR",
+            "url": "https://myvr.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "On site property manager",
+            "url": "https://www.onsitepropertymanager.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PayClix",
+            "url": "https://www.payclix.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PerfectPrice",
+            "url": "https://perfectprice.io",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PriceLabs",
+            "url": "https://www.pricelabs.co",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RateGenie",
+            "url": "https://www.rate-genie.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rentec Direct",
+            "url": "https://www.rentecdirect.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rentler",
+            "url": "https://www.rentler.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rentredi",
+            "url": "https://www.rentredi.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentReporter",
+            "url": "https://www.rentreporters.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RPM Pro",
+            "url": "https://www.rpm-pro.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Seamless Property",
+            "url": "https://www.seamless.ae/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Transparent",
+            "url": "https://seetransparent.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TripTease",
+            "url": "https://www.triptease.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Wheelhouse",
+            "url": "https://www.usewheelhouse.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zego",
+            "url": "https://www.gozego.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Distribution/Discovery": {
+        "Distribution (STRs)": [
+          {
+            "name": "9flats",
+            "url": "https://www.9flats.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Agoda",
+            "url": "https://www.agoda.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "AirBnB",
+            "url": "https://www.airbnb.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BlueGround",
+            "url": "https://www.theblueground.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Bookabach",
+            "url": "https://www.bookabach.co.nz/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Booking.com",
+            "url": "https://www.booking.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BoutiqueHomes",
+            "url": "https://boutique-homes.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "CasaMundo",
+            "url": "https://www.casamundo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Expedia",
+            "url": "https://www.expedia.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "FlipKey",
+            "url": "https://www.flipkey.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Halldis",
+            "url": "https://www.halldis.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Holiday Lettings",
+            "url": "https://www.holidaylettings.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HomeStay",
+            "url": "https://www.homestay.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HousingAnywhere",
+            "url": "https://housinganywhere.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Innclusive",
+            "url": "https://innclusive.be/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Kid and Coe",
+            "url": "https://www.kidandcoe.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Landing",
+            "url": "https://www.hellolanding.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Loftey",
+            "url": "https://www.loftey.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "NextPax",
+            "url": "https://nextpax.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Niumba",
+            "url": "https://www.niumba.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Oasis collections",
+            "url": "https://www.oasiscollections.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Onefinestay",
+            "url": "https://www.onefinestay.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Only-apartments",
+            "url": "https://www.only-apartments.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Stayz",
+            "url": "https://www.stayz.com.au/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TurnKey",
+            "url": "https://www.turnkeyvr.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Vacasa",
+            "url": "https://www.vacasa.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "VRBO",
+            "url": "https://www.vrbo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Wimdu",
+            "url": "https://www.wimdu.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zeus",
+            "url": "https://zeusliving.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Website": [
+          {
+            "name": "365 Connect",
+            "url": "https://www.365connect.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "ILSs": [
+          {
+            "name": "Apartment List",
+            "url": "https://www.apartmentlist.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ApartmentFinder",
+            "url": "https://www.apartmentfinder.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ApartmentGuide",
+            "url": "https://www.apartmentguide.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ApartmentRatings",
+            "url": "https://www.apartmentratings.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Apartments.com",
+            "url": "https://www.apartments.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Craigslist",
+            "url": "https://www.craigslist.org/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Dwellsy",
+            "url": "https://dwellsy.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "EveryRent",
+            "url": "https://everyrent.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ForRent.com",
+            "url": "https://www.forrent.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lovely",
+            "url": "https://lovelyrental.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PadList",
+            "url": "https://www.padlist.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Refin",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rent.com",
+            "url": "https://www.rent.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rentable",
+            "url": "https://www.rentable.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentalBeast",
+            "url": "https://www.rentalbeast.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentBits",
+            "url": "https://www.rentbits.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentLingo",
+            "url": "https://www.rentlingo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Trulia",
+            "url": "https://www.trulia.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zillow",
+            "url": "https://www.zillow.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zumper",
+            "url": "https://www.zumper.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "CRM": [
+          {
+            "name": "Adacta",
+            "url": "https://www.adacta.it/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Anyone Home",
+            "url": "https://www.anyonehome.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Aptly",
+            "url": "https://www.getaptly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Cendyn",
+            "url": "https://www.cendyn.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Creatio",
+            "url": "https://www.creatio.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "For Sight",
+            "url": "https://for-sight.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Funnel",
+            "url": "https://funnelleasing.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "FutureStay",
+            "url": "https://www.futurestay.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Goodlord",
+            "url": "https://www.goodlord.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hubspot",
+            "url": "https://www.hubspot.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Knock",
+            "url": "https://www.knockcrm.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "LeaseHawk",
+            "url": "https://www.leasehawk.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rent Dynamics",
+            "url": "https://rentdynamics.com/platform/multifamily-crm/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ReThink",
+            "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3000000194RHEAY",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Salesforce",
+            "url": "https://www.salesforce.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Vairt",
+            "url": "https://vairt.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "PMS": [
+          {
+            "name": "Appfolio",
+            "url": "https://www.appfolio.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Buildium",
+            "url": "https://www.buildium.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Ciirus",
+            "url": "https://www.ciirus.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Ender",
+            "url": "https://ender.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Entrata",
+            "url": "https://www.entrata.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Evernest",
+            "url": "https://www.evernest.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MRI",
+            "url": "https://www.mrisoftware.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Operto",
+            "url": "https://operto.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PropertyMatrix",
+            "url": "https://www.propertymatrix.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RealPage",
+            "url": "https://www.realpage.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ResMan",
+            "url": "https://www.myresman.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TurboTenant",
+            "url": "https://www.turbotenant.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Yardi",
+            "url": "https://www.yardi.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Exploration": {
+        "Virtual Touring": [
+          {
+            "name": "360 Virtual Tour",
+            "url": "https://www.360virtualtour.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "3D Vista",
+            "url": "https://www.3dvista.com/en/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "3DApartment",
+            "url": "https://3dapartment.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Concept 3D",
+            "url": "https://concept3d.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Cupix",
+            "url": "https://www.cupix.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Design Blender",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Easypano",
+            "url": "https://www.easypano.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Eye Spy 360",
+            "url": "https://www.eyespy360.com/en-us/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "LCP 360",
+            "url": "https://www.lcpmedia.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lookin3D",
+            "url": "https://www.lookin3d.fr/en/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lunas Pro",
+            "url": "https://www.lunas.pro/vr-tour.html",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MarketApartments",
+            "url": "https://www.marketapts.com/services/virtual-tours",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Matterport",
+            "url": "https://discover.matterport.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Omnisight",
+            "url": "https://omnisightinc.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Pano2VR",
+            "url": "https://ggnome.com/pano2vr/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RealPage",
+            "url": "https://www.realpage.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rooomy",
+            "url": "https://rooomy.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Tour24",
+            "url": "https://tour24now.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "VirtualApt",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Visiting Media",
+            "url": "https://visitingmedia.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "VPIX",
+            "url": "https://www.vpix360.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "MarTech": [
+          {
+            "see": "Pre-Discovery/Branding"
+          }
+        ]
+      },
+      "Contact": {
+        "Chat Bots": [
+          {
+            "name": "30 Lines",
+            "url": "https://30lines.com/mfi-chatbot/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "AskSuite",
+            "url": "https://asksuite.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BetterBot",
+            "url": "https://www.betterbot.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Bonomi",
+            "url": "https://app.bonomi.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Concierge Bot",
+            "url": "https://www.concierge.bot/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "EliseAI",
+            "url": "https://www.eliseai.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hellotars",
+            "url": "https://hellotars.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HostBot",
+            "url": "https://www.hostbot.app/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Knockbot",
+            "url": "https://www.knockcrm.com/ai-solutions/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lisa (Apartments247)",
+            "url": "https://www.apartments247.com/lisa/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Respage",
+            "url": "https://respage.com/our-solutions/chatbot/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Virtual Leasing Asts": [
+          {
+            "name": "HyLy",
+            "url": "https://hyly.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "LeaseHawk ACE",
+            "url": "https://www.leasehawk.com/ace",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Travtus",
+            "url": "https://www.travtus.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Pre-Visit": {
+        "CRMs": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ]
+      },
+      "Site Visit": {
+        "Public Transit": [
+          {
+            "name": "Actionfigure",
+            "url": "https://actionfigure.ai",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Clever Devices",
+            "url": "https://www.cleverdevices.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Moovel",
+            "url": "https://www.moovelus.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Micro Transit": [
+          {
+            "name": "Bird",
+            "url": "https://www.bird.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "GeoSure",
+            "url": "https://geosure.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lime",
+            "url": "https://www.li.me/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Spin",
+            "url": "https://www.spin.app/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Ride Share": [
+          {
+            "name": "Bellhop",
+            "url": "https://www.getbellhops.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Envoy",
+            "url": "https://www.envoythere.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lyft",
+            "url": "https://www.lyft.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Uber",
+            "url": "https://www.uber.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zipcar",
+            "url": "https://www.zipcar.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Exterior Access": [
+          {
+            "name": "Aiphone",
+            "url": "https://www.aiphone.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Brivo",
+            "url": "https://www.brivo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Butterfly MX",
+            "url": "https://butterflymx.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Chirp",
+            "url": "https://www.chirpsystems.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Comelit",
+            "url": "https://comelitgroup.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "DoorKing",
+            "url": "https://www.doorking.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ProdataKey",
+            "url": "https://www.prodatakey.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RemoteLock",
+            "url": "https://remotelock.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Swiftlane",
+            "url": "https://swiftlane.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Interior Access": [
+          {
+            "name": "August",
+            "url": "https://august.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Avigilon Alta",
+            "url": "https://www.avigilon.com/alta",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Dormakaba",
+            "url": "https://www.dormakaba.com/us-en/offering/products/electronic-access-data",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Flexipass",
+            "url": "https://flexipass.tech/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Genea",
+            "url": "https://www.getgenea.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Homebase AI",
+            "url": "https://homebase.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Kisi",
+            "url": "https://www.getkisi.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Kwikset",
+            "url": "https://www.kwikset.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Latch",
+            "url": "https://www.latch.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lockly",
+            "url": "https://www.lockly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "OpenKey",
+            "url": "https://www.openkey.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Operto",
+            "url": "https://operto.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Salto",
+            "url": "https://saltosystems.com/en-us/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SmartRent",
+            "url": "https://smartrent.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zerv",
+            "url": "https://www.zervaccess.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Occupancy Monitoring": [
+          {
+            "name": "Blueup",
+            "url": "https://www.blueupbeacons.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Butlr",
+            "url": "https://www.butlr.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Disruptive Technologies",
+            "url": "https://www.disruptive-technologies.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "InnerSpace",
+            "url": "https://innerspace.io/platform/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Occuspace",
+            "url": "https://www.occuspace.io",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "OpenSensors",
+            "url": "https://www.opensensors.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Pressac",
+            "url": "https://www.pressac.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Xandar Kardian",
+            "url": "https://www.xkcorp.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zensors",
+            "url": "https://www.zensors.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "CRMs": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Parking Tech": [
+          {
+            "name": "Flash Parking",
+            "url": "https://www.flashparking.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Luxe",
+            "url": "https://luxevalet.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Metropolis",
+            "url": "https://www.metropolis.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "O Valet",
+            "url": "https://www.o-valet.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ParkHub",
+            "url": "https://parkhub.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Parking Boss",
+            "url": "https://communityboss.com/multifamily/parking-boss",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ParkWise",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Parqex",
+            "url": "https://parqex.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SMS Valet",
+            "url": "https://smsvalet.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SpotAngels",
+            "url": "https://www.spotangels.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SpotHero",
+            "url": "https://spothero.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Touring Tech": [
+          {
+            "name": "Pynwheel",
+            "url": "https://pynwheeltouchscreens.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RealTour Vision",
+            "url": "https://www.realtourvision.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rently",
+            "url": "https://use.rently.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TenantTurner",
+            "url": "https://tenantturner.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Tour24",
+            "url": "https://tour24now.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Staging Tech": [
+          {
+            "name": "iStaging",
+            "url": "https://www.istaging.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rooomy",
+            "url": "https://rooomy.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Apply & Lease": {
+        "Tenant Screening": [
+          {
+            "name": "Alliance2020",
+            "url": "https://www.alliance2020.com/services/tenant-screening/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "American Apartment Owners Association (AAOA)",
+            "url": "https://www.american-apartment-owners-association.org/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Apartments.com",
+            "url": "https://www.apartments.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Appfolio",
+            "url": "https://www.appfolio.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Avail by Realtor.com",
+            "url": "https://www.avail.co/landlords/credit-and-background-check",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BetterNOI",
+            "url": "https://www.betternoi.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Docuverus",
+            "url": "https://www.docuverus.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "DoorLoop",
+            "url": "https://www.doorloop.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "E-Renter",
+            "url": "https://www.e-renter.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Entrata",
+            "url": "https://www.entrata.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Experian Connect",
+            "url": "https://www.experian.com/connect/tenant-screening",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Findigs",
+            "url": "https://www.findigs.com/multifamily",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "First Advantage",
+            "url": "https://fadv.com/industries/residential-tenant-background-checks/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hemlane",
+            "url": "https://www.hemlane.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Innago",
+            "url": "https://innago.com/tenant-screening/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "LeaseRunner",
+            "url": "https://www.leaserunner.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Listing 2 Leasing",
+            "url": "https://listing2leasing.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MRI",
+            "url": "https://www.mrisoftware.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MyRental by SafeRent",
+            "url": "https://www.myrental.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Naborly",
+            "url": "https://www.naborly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "National Tenant Network",
+            "url": "https://ntnonline.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "People Facts",
+            "url": "https://peoplefacts.com/solutions/background-screening/resident-screening/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Plaid",
+            "url": "https://plaid.com/solutions/fraud-compliance/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RealID",
+            "url": "https://www.realidinc.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Realpage",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rent Butter",
+            "url": "https://www.rentbutter.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentPrep",
+            "url": "https://rentprep.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentRedi",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentSpree",
+            "url": "https://www.rentspree.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Screening Reports",
+            "url": "https://www.screeningreports.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Screening Services",
+            "url": "https://www.screeningservices.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SingleKey",
+            "url": "https://www.singlekey.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Snappt",
+            "url": "https://snappt.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Stessa",
+            "url": "https://www.stessa.com/leasing/#tenant-screening",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Tenant Tech",
+            "url": "https://www.tenanttech.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TenantAlert",
+            "url": "https://www.tenantalert.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TenantMagic",
+            "url": "https://tenantmagic.net",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TenantReportX",
+            "url": "https://www.tenantreportx.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TransUnion SmartMove",
+            "url": "https://www.mysmartmove.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Yardi",
+            "url": "https://www.yardi.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Guest Screen (STRs)": [
+          {
+            "name": "AutoHost",
+            "url": "https://www.autohost.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "CheKin",
+            "url": "https://chekin.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Safely",
+            "url": "https://safely.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TransUnion SmartMove",
+            "url": "https://www.mysmartmove.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "LTR Apps": [
+          {
+            "name": "Adda",
+            "url": "https://www.adda.io",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Foxen",
+            "url": "https://www.foxen.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Henri",
+            "url": "https://www.henrihome.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentBerry",
+            "url": "https://www.rentberry.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SuperCenter",
+            "url": "https://www.hellosuper.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Host Apps (STRs)": [
+          {
+            "name": "Guest Ready",
+            "url": "https://www.guestready.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hostaway",
+            "url": "https://www.hostaway.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hosty",
+            "url": "https://hostyapp.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      }
+    },
+    "OCCUPANCY": {
+      "Arrival": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Exterior Access": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Indoor Mapping": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Interior Access": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Beacon Tech": [
+          {
+            "see": "Site Visit"
+          }
+        ]
+      },
+      "Move In": {
+        "Moving": [
+          {
+            "name": "Clutter",
+            "url": "https://www.clutter.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Dolly",
+            "url": "https://dolly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Moved",
+            "url": "https://moved.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MoveEasy",
+            "url": "https://www.moveeasy.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Room8",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Roomi",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RoomMatch",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Updater",
+            "url": "https://updater.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Hosting Tech": [],
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Tenant Tech Pkge": [
+          {
+            "name": "Aerwave",
+            "url": "https://www.aerwave.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Ambient",
+            "url": "https://www.ambientproptech.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Boingo",
+            "url": "https://www.boingo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Brivo",
+            "url": "https://www.brivo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Cobu",
+            "url": "https://www.livecobu.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Dulux",
+            "url": "https://www.dulux.co.uk/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Fernish",
+            "url": "https://www.fernish.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "FloorPlanner",
+            "url": "https://www.floorplanner.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Furnishr",
+            "url": "https://www.furnishr.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Gigstreem",
+            "url": "https://www.gigstreem.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "GuardHog",
+            "url": "https://www.guardhog.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Havenly",
+            "url": "https://www.havenly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HelloTech",
+            "url": "https://www.hellotech.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Iotas",
+            "url": "https://www.iotashome.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Jetty",
+            "url": "https://www.jetty.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lynx",
+            "url": "https://www.getlynx.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "MadeByWiFi",
+            "url": "https://www.madebywifi.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "NoiseAware",
+            "url": "https://www.noiseaware.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Operto",
+            "url": "https://operto.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PointCentral",
+            "url": "https://www.pointcentral.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RooMonitor",
+            "url": "https://www.roomonitor.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Roost",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Safely",
+            "url": "https://safely.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Single Digits",
+            "url": "https://www.singledigits.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Slice",
+            "url": "https://www.slice.is/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SmartRent",
+            "url": "https://smartrent.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Starry",
+            "url": "https://starry.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Stratis",
+            "url": "https://stratisiot.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TaskRabbit",
+            "url": "https://www.taskrabbit.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Vivint",
+            "url": "https://www.vivint.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Younity",
+            "url": "https://younity.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Occupy": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Tenant Engage": [
+          {
+            "name": "Comfy",
+            "url": "https://www.comfyapp.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Equiem",
+            "url": "https://getequiem.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HqO",
+            "url": "https://www.hqo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lane",
+            "url": "https://joinlane.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Livly",
+            "url": "https://www.livly.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Riseio",
+            "url": "https://www.riseio.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "VTS",
+            "url": "https://www.vts.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Zego",
+            "url": "https://www.gozego.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Tech-Enabled Property Managers": [
+          {
+            "name": "Alfred",
+            "url": "https://www.helloalfred.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Mint House",
+            "url": "https://minthouse.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Placemakr",
+            "url": "https://www.placemakr.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Sentral",
+            "url": "https://www.sentral.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Package Delivery": [
+          {
+            "name": "Aethon",
+            "url": "https://www.aethon.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Amazon Hub",
+            "url": "https://logistics.amazon.com/hubdelivery/marketing/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "American Locker",
+            "url": "https://www.americanlocker.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BoxLock",
+            "url": "https://www.getboxlock.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "DHL PackStation",
+            "url": "https://www.dhl.com/us-en/home.html",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Doorman",
+            "url": "https://www.doorman.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Fetch",
+            "url": "https://fetchpackage.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HelloPackage",
+            "url": "https://www.hellopackage.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Keba",
+            "url": "https://www.keba.com/en/logistics-solutions/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Locktec",
+            "url": "https://www.locktec.com/en/property-and-housing/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Luxer One",
+            "url": "https://www.luxerone.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Notifii",
+            "url": "https://www.notifii.com/package-lockers",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Package Concierge",
+            "url": "https://www.packageconcierge.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Package Nexus",
+            "url": "https://www.packagenexus.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Package Zen",
+            "url": "https://www.packagezen.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Parcel Pending",
+            "url": "https://www.parcelpending.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Patterson Pope",
+            "url": "https://www.pattersonpope.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Relay Robotics",
+            "url": "https://www.relayrobotics.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Smiota",
+            "url": "https://smiota.com/multifamily/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Snaile",
+            "url": "https://www.snaile.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ZipCodeXpress",
+            "url": "https://www.zipcodexpress.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Smart Apts": [
+          {
+            "see": "Move In"
+          }
+        ],
+        "Rent Payment": [
+          {
+            "name": "AvidXchange",
+            "url": "https://www.avidxchange.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Bilt",
+            "url": "https://www.biltrewards.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ClickPay",
+            "url": "https://www.clickpay.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Docstar",
+            "url": "https://www.docstar.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Domuso",
+            "url": "https://www.domuso.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Esusu",
+            "url": "https://www.esusurent.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Flock Homes",
+            "url": "https://www.flockhomes.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Freshbooks",
+            "url": "https://www.freshbooks.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Jetty",
+            "url": "https://www.jetty.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Letus",
+            "url": "https://www.letus.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Obligo",
+            "url": "https://www.myobligo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PayLease",
+            "url": "https://www.paylease.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PayPal",
+            "url": "https://www.paypal.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Pretto",
+            "url": "https://www.pretto.fr/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rent Track",
+            "url": "https://www.renttrack.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentMoola",
+            "url": "https://www.rentmoola.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rhove",
+            "url": "https://www.rhove.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Square",
+            "url": "https://squareup.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Stripe",
+            "url": "https://stripe.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Xero",
+            "url": "https://www.xero.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Amenities on Demand": [
+          {
+            "name": "Amenify",
+            "url": "https://www.amenify.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Envoy",
+            "url": "https://www.envoythere.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HelloAlfred",
+            "url": "https://helloalfred.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Please Assist Me",
+            "url": "https://www.pleaseassistme.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Spruce",
+            "url": "https://getspruce.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TF Living",
+            "url": "https://www.tfliving.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Parking Tech": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Transport Tech": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Furniture/Design": [
+          {
+            "name": "Krion Furniture",
+            "url": "https://www.krion.com/en/solutions/furniture",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Ori Systems",
+            "url": "https://www.oriliving.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Pet Services": [
+          {
+            "name": "DogDrop",
+            "url": "https://www.dogdrop.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "PetScreening",
+            "url": "https://www.petscreening.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rover",
+            "url": "https://www.rover.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Wag!",
+            "url": "https://wagwalking.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Guest Access": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Interior Access": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Exterior Access": [
+          {
+            "see": "Site Visit"
+          }
+        ],
+        "Meal Delivery": [
+          {
+            "name": "Blue Apron",
+            "url": "https://www.blueapron.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Caviar",
+            "url": "https://www.trycaviar.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "CookUnity",
+            "url": "https://www.cookunity.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Dinnerly",
+            "url": "https://www.dinnerly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "DoorDash",
+            "url": "https://www.doordash.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "EatClean",
+            "url": "https://eatcleantogo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "EatFuti",
+            "url": "https://www.eatfuti.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Factor",
+            "url": "https://www.factor75.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Gobble",
+            "url": "https://www.gobble.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Green Chef",
+            "url": "https://www.greenchef.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "GrubHub",
+            "url": "https://www.grubhub.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HelloFresh",
+            "url": "https://www.hellofresh.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Home Chef",
+            "url": "https://www.homechef.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hungryroot",
+            "url": "https://www.hungryroot.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Marley Spoon",
+            "url": "https://www.marleyspoon.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Postmates",
+            "url": "https://www.postmates.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Purple Carrot",
+            "url": "https://www.purplecarrot.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Thistle",
+            "url": "https://www.thistle.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Trifecta",
+            "url": "https://www.trifectanutrition.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "UberEats",
+            "url": "https://www.ubereats.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Maintenance Requests": [
+          {
+            "name": "Dwellwell",
+            "url": "https://dwellwell.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "HappyCo",
+            "url": "https://happy.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Keepe",
+            "url": "https://www.keepe.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Latchel",
+            "url": "https://www.latchel.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Leonardo247",
+            "url": "http://www.leonardo247.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lessen",
+            "url": "https://www.lessen.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Navas Labs",
+            "url": "https://www.navaslabs.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Pipefy",
+            "url": "https://www.pipefy.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RoomChecking",
+            "url": "https://www.roomchecking.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Turnover/Cleaning": [
+          {
+            "name": "Breezeway",
+            "url": "https://www.breezeway.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Doinn",
+            "url": "https://doinn.co/en-GB",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "FacilGo",
+            "url": "https://facilgo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "InspectCheck",
+            "url": "https://www.inspectcheck.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Properly",
+            "url": "https://www.getproperly.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentCheck",
+            "url": "https://getrentcheck.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SnapInspect",
+            "url": "https://www.snapinspect.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SuiteSpot",
+            "url": "https://suitespottechnology.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Swept",
+            "url": "https://www.sweptworks.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Workwave",
+            "url": "https://www.workwave.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Other": [
+          {
+            "name": "2U Laundry",
+            "url": "https://www.2ulaundry.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BDS LAUNDRY",
+            "url": "https://www.bdslaundry.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Brevvie",
+            "url": "https://www.brevvie.com",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Cleanly",
+            "url": "https://trycleanly.com/products/sheets",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rinse",
+            "url": "https://www.rinse.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Wash",
+            "url": "https://www.wash.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Experience": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Other (atypical)": [
+          {
+            "name": "BabyQuip",
+            "url": "https://www.babyquip.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "BagsAway",
+            "url": "https://bagsaway.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Luggage Hero",
+            "url": "https://luggagehero.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Lugless",
+            "url": "https://www.lugless.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Pi\u00f1ata",
+            "url": "https://www.pinata.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Stasher",
+            "url": "https://stasher.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Stockwell",
+            "url": "https://www.stockwell.ai/details",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Tenant App",
+            "url": "https://tenants.app/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Tulu",
+            "url": "https://tulu.io/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Tenant Communication": [
+          {
+            "see": "Tenant Engage"
+          }
+        ]
+      }
+    },
+    "POST-OCCUPANCY": {
+      "Renew": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "MarTech": [
+          {
+            "see": "Pre-D/Brand"
+          }
+        ]
+      },
+      "Review": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Review Management": [
+          {
+            "name": "365 Connect",
+            "url": "https://www.365connect.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ChatMeter",
+            "url": "https://www.chatmeter.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "GuestRevu",
+            "url": "https://www.guestrevu.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "J Turner",
+            "url": "https://www.jturnerresearch.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Mention",
+            "url": "https://mention.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Opiniion",
+            "url": "https://opiniion.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Qualtrics (XM)",
+            "url": "https://www.qualtrics.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Reputation.com",
+            "url": "https://www.reputation.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Reputology",
+            "url": "https://www.reputology.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "SatisFacts",
+            "url": "https://www.satisfacts.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Similar Web",
+            "url": "https://www.similarweb.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Yext",
+            "url": "https://www.yext.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Yotpo",
+            "url": "https://www.yotpo.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      },
+      "Move Out": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Moving Tech": [
+          {
+            "see": "Move In"
+          }
+        ]
+      },
+      "Ongoing Engagement": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "MarTech": [
+          {
+            "see": "Pre-Discovery/Branding"
+          }
+        ]
+      },
+      "Reporting/Back Office": {
+        "PMS": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "CRM": [
+          {
+            "see": "Distribution/Discovery"
+          }
+        ],
+        "Corporate CRM": [
+          {
+            "name": "Affinity",
+            "url": "https://www.affinity.co/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Copper",
+            "url": "https://www.copper.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Hubspot",
+            "url": "https://www.hubspot.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Salesforce",
+            "url": "https://www.salesforce.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Portfolio Management": [
+          {
+            "name": "Juniper Square",
+            "url": "https://www.junipersquare.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Spherexx",
+            "url": "https://www.spherexx.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ],
+        "Accounting": [
+          {
+            "name": "AccountsIQ",
+            "url": "https://www.accountsiq.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "AMS Billing",
+            "url": "https://www.amsbilling.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "AvidXchange",
+            "url": "https://www.avidxchange.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "DocStar",
+            "url": "",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Flow",
+            "url": "https://www.getflow.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Freshbooks",
+            "url": "https://www.freshbooks.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Innovative Recovery",
+            "url": "https://www.innovativerecovery.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "ProperAI",
+            "url": "https://www.proper.ai/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Quickbooks",
+            "url": "https://quickbooks.intuit.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Rent Recovery",
+            "url": "https://www.rentrecovery.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "RentDebt",
+            "url": "https://www.rentdebt.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Sage Intacct",
+            "url": "https://www.sageintacct.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "TenantCloud",
+            "url": "https://www.tenantcloud.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Tight",
+            "url": "https://www.tight.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "VendorPly",
+            "url": "https://www.vendorply.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          },
+          {
+            "name": "Xero",
+            "url": "https://www.xero.com/",
+            "logo": "https://your-placeholder-logo-url.com/logo.png"
+          }
+        ]
+      }
+    }
+  }
+}
