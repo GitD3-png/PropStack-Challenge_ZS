@@ -43,12 +43,22 @@ Build a full-stack web application that visually maps out the technology compani
 
 ---
 
-## 📦 Data Provided
+### 📂 Updated JSON Structure
 
-➡️ [Download Navigation Structure (JSON)](./assets/PropStack_Multifamily_Structure_Simplified.json)
+Here's the updated JSON file used in this project:
 
-🔗 A secondary company metadata sheet (URLs + logo links) is being finalized and will be added shortly.
+[`assets/PropStack_MF_Updated_Structure_Links.json`](./assets/PropStack_MF_Updated_Structure_Links.json)
 
+This file now contains:
+
+- The complete `Multifamily → Area → Segment → Sub-category` hierarchy
+- A list of companies under each sub-category with:
+  - `name`
+  - `url`
+  - `logo` (currently a placeholder)
+- Navigational references like `"See CRMs"` are now formatted as:
+  ```json
+  { "see": "CRMs" }
 ---
 
 ## 📤 Submission Instructions
