@@ -1,111 +1,76 @@
-# 🏗️ PropStack Challenge: Build the Future of PropTech Mapping
-[![Join the Discussion](https://img.shields.io/badge/discuss-join%20the%20challenge-blue)](https://github.com/GitD3-png/propstack-challenge/discussions)
+# Running the PropStack Challenge Application
 
-Are you ready to build something real that could shape the PropTech industry?
-We’re launching the **PropStack Project**, a **PropTech coding challenge** where developers compete to create a live, interactive tech stack manager — inspired by [StackShare.io](https://stackshare.io/stacks) — but designed for the **real estate vertical**.
+This is a [Next.js](https://nextjs.org/) project that visualizes PropTech companies in the Multifamily real estate industry.
 
-This competition focuses on **Multifamily** (“Apartments” or “Flats”) as the first asset class, with scope to expand across the PropTech ecosystem.
+## Prerequisites
 
----
+- [Node.js](https://nodejs.org/en/) (v14.0.0 or later)
+- npm (comes with Node.js) or [Yarn](https://yarnpkg.com/)
 
-## 💡 The Challenge
+## Getting Started
 
-Build a full-stack web application that visually maps out the technology companies used in the **Multifamily** real estate industry. Think of it like [StackShare.io](https://stackshare.io/stacks), but specifically designed for real estate asset classes.
+Follow these simple steps to run the application locally:
 
-- A dynamic dropdown system:
-  - **Multifamily → Node (e.g., Occupancy) → Sub-Category (e.g., Move In) → Tag (e.g., Tenant Tech Package)**
-- Display company cards (logo + name + link) for each selected sub-category
-- Collapse all unrelated paths when one tag is selected
-- Back-end support for editing and expanding the tech list (can be no-code or custom CMS)
-- Clean, intuitive UX inspired by StackShare.io
-- Color palette to be taken from [PTAG](https://www.proptechangelgroup.com/) 
+1. **Clone the repository**
 
----
+```bash
+git clone https://github.com/GitD3-png/propstack-challenge.git
+cd propstack-challenge
+```
 
-## 🏆 Prize
+2. **Install dependencies**
 
-**💰 First Place:** $500 USD + featured on our developer platform
+```bash
+npm install
+# or
+yarn install
+```
 
-**Top participants** may be invited to join our developer pool for client-facing work
+3. **Run the development server**
 
----
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-## 🛠 Tech Expectations
+4. **Open the application**
 
-- Full-stack web application (frontend + backend)
-- Clean, modular code
-- Intuitive UI with collapsible navigation
-- Backend must support adding/editing tech stacks
-- Bonus points for:
-  - Clean design
-  - Efficient data handling
-  - CMS integration
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
----
+## Features
 
-### 📂 Updated JSON Structure
+- **Dynamic Dropdown Navigation**: Browse through the PropTech hierarchy (Multifamily → Category → Sub-Category → Tag)
+- **Company Cards**: View company information with logos and links
+- **Tech Stack Visualization**: See the technologies used by each company
+- **Admin Interface**: Add, edit, and delete companies through the admin panel at `/admin`
+- **Local Storage**: All data is managed client-side using localStorage for persistence
 
-Here's the updated JSON file used in this project:
+## Data Structure
 
-[`assets/PropStack_MF_Updated_Structure_Links.json`](./assets/PropStack_MF_Updated_Structure_Links.json)
+The application uses the JSON data located at `assets/PropStack_MF_Updated_Structure_Links.json` which contains the hierarchical structure of PropTech companies in the Multifamily real estate industry.
 
-This file now contains:
+## Technologies Used
 
-- The complete `Multifamily → Area → Segment → Sub-category` hierarchy
-- A list of companies under each sub-category with:
-  - `name`
-  - `url`
-  - `logo` (currently a placeholder)
-- Navigational references like `"See CRMs"` are now formatted as:
-  ```json
-  { "see": "CRMs" }
----
+- **Next.js**: React framework for server-rendered applications
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **React Icons**: Icon library for React applications
+- **localStorage API**: For client-side data persistence
 
-## 📤 Submission Instructions
+## Building for Production
 
-To participate, please submit:
-1. A link to your GitHub repo
-2. A live demo (or screen recording)
-3. A short explanation (in `README` or video):
-   - Your structure and approach
-   - How to run it locally
-   - Any special tools or frameworks used
+To build the application for production:
 
-📩 Submit your project here: [Submit via Google Form](https://forms.gle/xAvVoaoLCfxABx5w9)
+```bash
+npm run build
+# or
+yarn build
+```
 
----
+Then, to start the production server:
 
-## 📅 Timeline
-
-- **Launch Date:** 25th March 2025
-- **Submission Deadline:** **Monday, 31st March 2025
-- **Winner Announced:** TBD
-
----
-
-## 🧠 Inspiration
-
-We’re inspired by platforms like [StackShare.io](https://stackshare.io/stacks) that organize tools by category and use case.
-
-Here’s an example of the experience we're reimagining for real estate:
-
-![StackShare Example](./stackshare-example-1.png)
-
-![StackShare Grid View](./stackshare-example-2.png)
-
----
-
-## 📬 Questions?
-
-Reach out to us at [Demetri@blkhwk.com] or DM via LinkedIn.
-
-Happy building,  
-**– The PTAG Team**
-
----
-
-## 📄 License
-
-The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-You are free to use and adapt the data and challenge materials for personal or educational purposes. Commercial use is not permitted.
+```bash
+npm start
+# or
+yarn start
+```
