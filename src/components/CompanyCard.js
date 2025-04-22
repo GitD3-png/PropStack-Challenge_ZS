@@ -18,7 +18,7 @@ const CompanyCard = ({ company }) => {
             fill
             className="object-contain"
             onError={(e) => {
-              e.target.src = '/placeholder-logo.svg';
+              e.target.src = '/PTAG-logo.svg';
             }}
           />
         ) : (
