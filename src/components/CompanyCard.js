@@ -6,7 +6,7 @@ const CompanyCard = ({ company }) => {
   const { name, url, logo } = company;
   
   // Use a default logo if none is provided
-  const logoSrc = logo || '/placeholder-logo.svg';
+  const logoSrc = logo || '/PTAG-logo.svg';
   
   return (
     <div className="tech-card">
