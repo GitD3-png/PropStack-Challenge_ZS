@@ -5,7 +5,7 @@ import { FaSearch } from 'react-icons/fa';
 
 const Header = () => {
   const [searchQuery, setSearchQuery] = useState('');
-//push for Vercal #1
+//push for Vercal #2
   return (
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
