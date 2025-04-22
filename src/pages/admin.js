@@ -263,7 +263,7 @@ export default function Admin({ propStackData }) {
                     value={newCompany.logo}
                     onChange={(e) => setNewCompany({ ...newCompany, logo: e.target.value })}
                     className="w-full p-2 border rounded focus:outline-none focus:ring-2 focus:ring-primary"
-                    placeholder="https://your-placeholder-logo-url.com/logo.png"
+                    placeholder="/placeholder-logo.svg"
                   />
                 </div>
               </div>
