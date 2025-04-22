@@ -6,7 +6,7 @@ const CompanyCard = ({ company }) => {
   const { name, url, logo } = company;
   
   // Use a default logo if none is provided
-  const logoSrc = logo || '/default-logo.png';
+  const logoSrc = logo || '/placeholder-logo.svg';
   
   return (
     <div className="tech-card">
@@ -18,7 +18,7 @@ const CompanyCard = ({ company }) => {
             fill
             className="object-contain"
             onError={(e) => {
-              e.target.src = '/default-logo.png';
+              e.target.src = '/placeholder-logo.svg';
             }}
           />
         ) : (
